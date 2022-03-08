@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>image/오렌지블로섬.PNG</file>
+    <file>image/진토닉.PNG</file>
+    <file>image/마티니.PNG</file>
+    <file>image/랜덤.PNG</file>
+    <file>image/화이트러시안.PNG</file>
+    <file>image/블랙러시안.PNG</file>
+    <file>image/스크루드라이버.PNG</file>
+    <file>image/시브리즈.PNG</file>
+    <file>image/cocktail.ico</file>
+    <file>image/그레이하운드.PNG</file>
+    <file>image/솔티독.PNG</file>
+  </qresource>
+</RCC>
