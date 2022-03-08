@@ -6,7 +6,7 @@ import random
 import datetime
 
 
-# 리소스 변환(터미널 실행) pyrcc5 resource.qrc -o resource_rc.py
+## 리소스 변환(터미널 실행) pyrcc5 resource.qrc -o resource_rc.py
 form_class = uic.loadUiType("bartender.ui")[0]
 
 메뉴 = {'솔티독': ('보드카', '자몽주스'),
